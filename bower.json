@@ -1,5 +1,5 @@
 {
-  "name": "flot-animator",
+  "name": "jquery-colorhelpers",
   "version": "master",
   "main": "src/main/resources/jquery.colorhelpers.js",
   "dependencies": {},
