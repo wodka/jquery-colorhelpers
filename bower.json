@@ -1,0 +1,30 @@
+{
+  "name": "flot-animator",
+  "version": "master",
+  "main": "src/main/resources/jquery.colorhelpers.js",
+  "dependencies": {},
+  "homepage": "https://github.com/webjars/jquery-colorhelpers",
+  "authors": [
+    "amesward",
+    "huntc"
+  ],
+  "keywords": [
+    "color",
+    "jquery",
+    "graphics"
+  ],
+  "description": "jQuery ColorHelper WebJar",
+  "license": "?",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "*.md",
+    "*.json",
+    "*.txt"
+  ]
+}
+
